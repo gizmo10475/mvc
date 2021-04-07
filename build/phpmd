@@ -5,7 +5,7 @@ C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Dice\Game.php	-	Unexpected 
 C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Router\Router.php	-	Unexpected token: Edvin\Router, line: 5, col: 11, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Router\Router.php.
 C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\functions.php	-	Unexpected token: Edvin\Functions, line: 5, col: 11, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\functions.php.
 C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\debug.php	-	Unexpected token: Edvin\Functions, line: 9, col: 14, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\debug.php.
-C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice.php	-	Unexpected token: \Edvin\Dice\Dice, line: 17, col: 12, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice.php.
+C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice.php	-	Unexpected token: \Edvin\Dice\Dice, line: 21, col: 12, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice.php.
 C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice1.php	-	Unexpected token: \Edvin\Dice\DiceGraphic, line: 13, col: 13, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice1.php.
 C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice2.php	-	Unexpected token: \Edvin\Dice\DiceGraphic, line: 13, col: 13, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\dice2.php.
 C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\header.php	-	Unexpected token: Edvin\Functions\url, line: 9, col: 14, file: C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\view\header.php.
