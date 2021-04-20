@@ -23,11 +23,9 @@ if ($_SESSION["stopgame"] == 0) {
         $class[] = $dice->graphic();
     }
 }
+$_SESSION["dice1status"] = false;
 
 ?>
-<!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="style.css">
 <h1>Kastar <?= $rolls ?> Tärning(ar)</h1>
 
 <p class="dice-utf8">

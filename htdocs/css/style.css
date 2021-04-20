@@ -52,3 +52,17 @@ footer {
 .dice-utf8 {
     font-size: 32px;
 }
+
+button {
+    font-size: 2em;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}

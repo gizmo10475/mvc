@@ -17,7 +17,6 @@ settype($_SESSION["pointsUsr"], "integer");
 settype($_SESSION["pointsBot"], "integer");
 
 
-
 $die = new \Edvin\Dice\Dice();
 
 // $die->roll();

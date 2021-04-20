@@ -19,11 +19,11 @@ use function Edvin\Functions\url;
 </head>
 
 <body>
-
     <header>
         <nav>
             <a href="<?= url("/") ?>">Home</a> |
             <a href="<?= url("/session") ?>">Session</a> |
+            <a href="<?= url("/yatzywelcome") ?>">Yatzy</a> |
             <a href="<?= url("/dice") ?>">Game21</a> |
             <a href="<?= url("/debug") ?>">Debug</a> |
             <a href="<?= url("/twig") ?>">Twig view</a> |
