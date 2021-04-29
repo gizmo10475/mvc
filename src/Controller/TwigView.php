@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Edvin\Controller;
+namespace Mos\Controller;
 
 use Nyholm\Psr7\Factory\Psr17Factory;
 use Psr\Http\Message\ResponseInterface;
 
-use function Edvin\Functions\renderTwigView;
+use function Mos\Functions\renderTwigView;
 
 /**
  * Controller for showing how Twig views works.

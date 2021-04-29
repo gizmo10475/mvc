@@ -1,6 +1,7 @@
 {
     "autoload": {
         "psr-4": {
+            "Mos\\": "src/",
             "Edvin\\": "src/",
             "Dbwebb\\": "src/"
         },

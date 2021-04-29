@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace Edvin\Controller;
+namespace Mos\Controller;
 
 // use Nyholm\Psr7\Response;
 // use Nyholm\Psr7\Stream;
 use Nyholm\Psr7\Factory\Psr17Factory;
 use Psr\Http\Message\ResponseInterface;
 
-use function Edvin\Functions\renderView;
+use function Mos\Functions\renderView;
 
 /**
  * Controller for the debug route.

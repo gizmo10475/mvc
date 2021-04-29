@@ -6,7 +6,7 @@
 
 declare(strict_types=1);
 
-use function Edvin\Functions\{
+use function Mos\Functions\{
     getBaseUrl,
     getCurrentUrl,
     getRoutePath

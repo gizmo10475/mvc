@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Edvin\Dice;
 
-use function Edvin\Functions\{
+use function Mos\Functions\{
     redirectTo,
     renderView,
     sendResponse,
@@ -17,13 +17,13 @@ use function Edvin\Functions\{
 class Game
 {
 
-    public function playGame(): void
-    {
+    // public function playGame(): void
+    // {
 
-        $data = [
-            "header" => "Game 21!"
-        ];
-        $body = renderView("layout/dice.php", $data);
-        sendResponse($body);
-    }
+    //     $data = [
+    //         "header" => "Game 21!"
+    //     ];
+    //     $body = renderView("layout/dice.php", $data);
+    //     sendResponse($body);
+    // }
 }

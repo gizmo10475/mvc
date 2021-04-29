@@ -7,7 +7,7 @@ namespace Edvin\Controller;
 use Nyholm\Psr7\Factory\Psr17Factory;
 use Psr\Http\Message\ResponseInterface;
 
-use function Edvin\Functions\{
+use function Mos\Functions\{
     destroySession,
     redirectTo,
     renderView,

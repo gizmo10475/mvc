@@ -6,7 +6,7 @@
 
 declare(strict_types=1);
 
-use function Edvin\Functions\url;
+use function Mos\Functions\url;
 
 // $_SESSION["pointsUsr"] = 0;
 // $_SESSION["pointsBot"] = 0;

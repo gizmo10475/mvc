@@ -11,9 +11,6 @@ $message = $message ?? null;
 
 ?><h1><?= $header ?></h1>
 
-<p><?= $message ?></p>
+<h1>Välkommen till Yatzy!</h1>
 
-
-<h2>Tryck för att spela yatzy!</h2><form method="POST">
-    <input type="submit" value="Kör">
-</form>
+<a href="yatzy">Tryck här för att börja spela</a>

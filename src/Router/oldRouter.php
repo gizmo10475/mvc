@@ -4,14 +4,14 @@ declare(strict_types=1);
 
 namespace Edvin\Router;
 
-use function Edvin\Functions\{
-    destroySession,
-    redirectTo,
-    renderView,
-    renderTwigView,
-    sendResponse,
-    url
-};
+// use function Edvin\Functions\{
+//     destroySession,
+//     redirectTo,
+//     renderView,
+//     renderTwigView,
+//     sendResponse,
+//     url
+// };
 
 /**
  * Class Router.
