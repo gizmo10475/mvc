@@ -1,5 +1,0 @@
-C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Controller\yatzyController.php:56	The method startgame() has a Cyclomatic Complexity of 35. The configured cyclomatic complexity threshold is 10.
-C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Controller\yatzyController.php:56	The method startgame() has an NPath complexity of 1024. The configured NPath complexity threshold is 200.
-C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Controller\yatzyController.php:56	The method startgame() has 117 lines of code. Current threshold is set to 100. Avoid really long methods.
-C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Controller\yatzyController.php:60	Missing class import via use statement (line '60', column '20').
-C:\cygwin64\home\Edvin\dbwebb-kurser\mvc\me\game\src\Controller\yatzyController.php:61	Missing class import via use statement (line '61', column '21').
