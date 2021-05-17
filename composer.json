@@ -1,4 +1,6 @@
 {
+    "name": "eddie/my-php-project",
+    "description": "Eddies projekt",
     "autoload": {
         "psr-4": {
             "Mos\\": "src/",
